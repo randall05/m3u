@@ -35,12 +35,6 @@ https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:0, tvg-logo="https://img.favpng.com/4/12/17/united-states-abc-news-thestreet-inc-logo-png-favpng-G9EQvS375vc0zYb600sGk1tWm.jpg" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:0,group-title="CCTV",CCTV-13 高清 
-http://stream10.fjtv.net/cntv13/sd/live.m3u8?_upt=6b125f971653659250
-
-#EXTINF:0,group-title="CCTV",CCTV-5 高清
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-
 #EXTINF:0, tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/05/NASA-Logo-1959-Presente.jpg" group-title="News",NASA Public Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
