@@ -18,7 +18,7 @@ https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:0, tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.galW8s0LnbhQZZxbtLj8CgHaEK?pid=ImgDet&rs=1" group-title="News",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 #EXTINF:0, tvg-logo="https://hyperpix.net/wp-content/uploads/2020/06/bloomberg-logo-font-free-download.jpg" group-title="News",Bloomberg TV US
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
