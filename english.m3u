@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.4AwjQJg5UXOAdj1gD-yIjQHaJW?pid=ImgDet&rs=1" group-title="News",SG亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:0, tvg-logo="https://i1.wp.com/billboardtvnetwork.com/wp-content/uploads/2019/08/aljazeera.jpg" group-title="News",半岛电视台
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:0, tvg-logo="https://static.temblor.net/wp-content/uploads/2016/06/CBS_News_Logo.jpg" group-title="News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:0, tvg-logo="https://www.ottawabusinessjournal.com/wp-content/uploads/2019/07/logo-cbc-1140x600.jpg" group-title="News",CBC NEWS
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="Global", CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tse1-mm.cn.bing.net/th/id/R-C.acac007873e495655110f7d0bbc79b68?rik=QiYPQ0FsGoJ8AA&riu=http%3a%2f%2fpress.nbcnews.com%2fwp-content%2fuploads%2f2021%2f03%2fNBCNewsNOW.jpg&ehk=hLIXrcZ%2b5A4V74B33i%2b4J1EUDoV9II1gEMed04kou8g%3d&risl=&pid=ImgRaw&r=0" group-title="Global", NBC News Now
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
+#EXTINF:0, tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.galW8s0LnbhQZZxbtLj8CgHaEK?pid=ImgDet&rs=1" group-title="News",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:0, tvg-logo="https://hyperpix.net/wp-content/uploads/2020/06/bloomberg-logo-font-free-download.jpg" group-title="News",Bloomberg TV US
+https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://tse4-mm.cn.bing.net/th/id/OIP-C.2o_f4z8v3AfcAqToV2se1wHaFj?pid=ImgDet&rs=1" group-title="News",BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:0, tvg-logo="http://socialbarrel.com/wp-content/uploads/2012/01/Reuters-Launches-New-ReutersTV-YouTube-Channel.png" group-title="News",Reuters
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0, tvg-logo="http://oklivetv.com/wp-content/uploads/media/c9e37b99f02a37a63881db6c8d7e97b9.jpeg" group-title="News",RT News
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+
+#EXTINF:0, tvg-logo="https://img.favpng.com/4/12/17/united-states-abc-news-thestreet-inc-logo-png-favpng-G9EQvS375vc0zYb600sGk1tWm.jpg" group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:0,group-title="CCTV",CCTV-13 高清 
+http://stream10.fjtv.net/cntv13/sd/live.m3u8?_upt=6b125f971653659250
+
+#EXTINF:0,group-title="CCTV",CCTV-5 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:0, tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/05/NASA-Logo-1959-Presente.jpg" group-title="News",NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0, tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/05/NASA-Logo-1975-1992.jpg" group-title="Global", NASA Media Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
